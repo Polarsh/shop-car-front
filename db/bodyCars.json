@@ -1,0 +1,117 @@
+[
+  {
+    "name": "sedan",
+    "displayName": "Sedán",
+    "path": "/bodyCars/sedan.svg"
+  },
+  {
+    "name": "suv",
+    "displayName": "SUV",
+    "path": "/bodyCars/suv.svg"
+  },
+  {
+    "name": "coupe",
+    "displayName": "Coupé",
+    "path": "/bodyCars/coupe.svg"
+  },
+  {
+    "name": "van",
+    "displayName": "Van",
+    "path": "/bodyCars/van.svg"
+  },
+  {
+    "name": "pickup",
+    "displayName": "Pickup",
+    "path": "/bodyCars/pickup.svg"
+  },
+  {
+    "name": "micro-car",
+    "displayName": "Microcoche",
+    "path": "/bodyCars/micro-car.svg"
+  },
+  {
+    "name": "hatchback",
+    "displayName": "Hatchback",
+    "path": "/bodyCars/hatchback.svg"
+  },
+  {
+    "name": "passenger",
+    "displayName": "Turismo",
+    "path": "/bodyCars/passenger.svg"
+  },
+  {
+    "name": "cabriolet",
+    "displayName": "Cabriolet",
+    "path": "/bodyCars/cabriolet.svg"
+  },
+  {
+    "name": "big-truck",
+    "displayName": "Camión Grande",
+    "path": "/bodyCars/big-truck.svg"
+  },
+  {
+    "name": "minivan",
+    "displayName": "Minivan",
+    "path": "/bodyCars/minivan.svg"
+  },
+  {
+    "name": "cuv",
+    "displayName": "CUV",
+    "path": "/bodyCars/cuv.svg"
+  },
+  {
+    "name": "station",
+    "displayName": "Station Wagon",
+    "path": "/bodyCars/station.svg"
+  },
+  {
+    "name": "liftback",
+    "displayName": "Liftback",
+    "path": "/bodyCars/liftback.svg"
+  },
+  {
+    "name": "super",
+    "displayName": "Superdeportivo",
+    "path": "/bodyCars/super.svg"
+  },
+  {
+    "name": "muscle",
+    "displayName": "Muscle Car",
+    "path": "/bodyCars/muscle.svg"
+  },
+  {
+    "name": "limousine",
+    "displayName": "Limusina",
+    "path": "/bodyCars/limousine.svg"
+  },
+  {
+    "name": "truck",
+    "displayName": "Camión",
+    "path": "/bodyCars/truck.svg"
+  },
+  {
+    "name": "sports",
+    "displayName": "Deportivo",
+    "path": "/bodyCars/sports.svg"
+  },
+  {
+    "name": "roadster",
+    "displayName": "Roadster",
+    "path": "/bodyCars/roadster.svg"
+  },
+  {
+    "name": "panelvan",
+    "displayName": "Furgón Panelado",
+    "path": "/bodyCars/panelvan.svg"
+  },
+  {
+    "name": "targa",
+    "displayName": "Targa",
+    "path": "/bodyCars/targa.svg"
+  },
+  {
+    "name": "mini-truck",
+    "displayName": "Mini Camión",
+    "path": "/bodyCars/mini-truck.svg"
+  }
+]

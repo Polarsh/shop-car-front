@@ -1,0 +1,303 @@
+[
+  {
+    "id": "tesla-model-x-2019-30000-180000",
+    "carDetails": {
+      "year": "2019",
+      "brand": "Tesla",
+      "price": 30000,
+      "transmission": "Manual",
+      "model": "Model X",
+      "fuel": ["Gasolina"],
+      "displacement": "1.7L",
+      "drivetrain": "Tracción Simple",
+      "color": "Azul",
+      "mileage": 180000,
+      "body": "Sedán",
+      "transmissionAbbre": "MT",
+      "drivetrainAbbre": "2WD"
+    },
+    "accessories": [
+      {
+        "name": "Espejos eléctricos",
+        "description": "Espejos ajustables electrónicamente."
+      },
+      {
+        "name": "Sistema de Navegación GPS",
+        "description": "GPS integrado con mapas."
+      },
+      {
+        "name": "Ventanas Eléctricas",
+        "description": "Control electrónico de ventanas."
+      },
+      {
+        "name": "Sensores de Estacionamiento",
+        "description": "Sensores ultrasónicos para evitar colisiones."
+      }
+    ],
+    "notes": ["Último servicio hace 5000 km", "Motor en perfecto estado"],
+    "status": "active",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hnx9j6YyIubN76LlZT1zkj2GEJxTzUTmTQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hnx9j6YyIubN76LlZT1zkj2GEJxTzUTmTQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3hnx9j6YyIubN76LlZT1zkj2GEJxTzUTmTQ&s"
+    ]
+  },
+  {
+    "id": "chevrolet-model-s-2003-45000-50000",
+    "carDetails": {
+      "year": "2003",
+      "brand": "Chevrolet",
+      "price": 45000,
+      "transmission": "Manual",
+      "model": "Model S",
+      "fuel": ["Gasolina", "GLP"],
+      "displacement": "2.1L",
+      "drivetrain": "Tracción Total",
+      "color": "Gris",
+      "mileage": 50000,
+      "body": "SUV",
+      "transmissionAbbre": "MT",
+      "drivetrainAbbre": "4WD"
+    },
+    "accessories": [
+      {
+        "name": "Espejos eléctricos",
+        "description": "Espejos ajustables electrónicamente."
+      },
+      {
+        "name": "Sistema de Navegación GPS",
+        "description": "GPS integrado con mapas."
+      },
+      {
+        "name": "Ventanas Eléctricas",
+        "description": "Control electrónico de ventanas."
+      },
+      {
+        "name": "Sensores de Estacionamiento",
+        "description": "Sensores ultrasónicos para evitar colisiones."
+      }
+    ],
+    "notes": ["Interior en excelente estado", "Asientos de cuero"],
+    "status": "active",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTrVYOc7vDLM71ABR-OTsAsYWNbKEeUS64Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTrVYOc7vDLM71ABR-OTsAsYWNbKEeUS64Q&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTrVYOc7vDLM71ABR-OTsAsYWNbKEeUS64Q&s"
+    ]
+  },
+  {
+    "id": "chevrolet-model-x-2017-50000-40000",
+    "carDetails": {
+      "year": "2017",
+      "brand": "Chevrolet",
+      "price": 50000,
+      "transmission": "Automática",
+      "model": "Model X",
+      "fuel": ["GLP"],
+      "displacement": "1.7L",
+      "drivetrain": "Tracción Simple",
+      "color": "Negro",
+      "mileage": 40000,
+      "body": "Pickup",
+      "transmissionAbbre": "AT",
+      "drivetrainAbbre": "2WD"
+    },
+    "accessories": [
+      {
+        "name": "Espejos eléctricos",
+        "description": "Espejos ajustables electrónicamente."
+      },
+      {
+        "name": "Sistema de Navegación GPS",
+        "description": "GPS integrado con mapas."
+      },
+      {
+        "name": "Ventanas Eléctricas",
+        "description": "Control electrónico de ventanas."
+      },
+      {
+        "name": "Sensores de Estacionamiento",
+        "description": "Sensores ultrasónicos para evitar colisiones."
+      }
+    ],
+    "notes": ["Carrocería sin rayones", "Excelente opción familiar"],
+    "status": "active",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItMnTGNbEUjolk1AoZTkOcjIdYD_lKweKhw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItMnTGNbEUjolk1AoZTkOcjIdYD_lKweKhw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItMnTGNbEUjolk1AoZTkOcjIdYD_lKweKhw&s"
+    ]
+  },
+  {
+    "id": "mercedes-benz-model-x-2023-60000-140000",
+    "carDetails": {
+      "year": "2023",
+      "brand": "Mercedes Benz",
+      "price": 60000,
+      "transmission": "Automática",
+      "model": "Model X",
+      "fuel": ["GNV"],
+      "displacement": "1.9L",
+      "drivetrain": "Tracción Simple",
+      "color": "Rojo",
+      "mileage": 140000,
+      "body": "Pickup",
+      "transmissionAbbre": "AT",
+      "drivetrainAbbre": "2WD"
+    },
+    "accessories": [
+      {
+        "name": "Espejos eléctricos",
+        "description": "Espejos ajustables electrónicamente."
+      },
+      {
+        "name": "Sistema de Navegación GPS",
+        "description": "GPS integrado con mapas."
+      },
+      {
+        "name": "Ventanas Eléctricas",
+        "description": "Control electrónico de ventanas."
+      },
+      {
+        "name": "Sensores de Estacionamiento",
+        "description": "Sensores ultrasónicos para evitar colisiones."
+      }
+    ],
+    "notes": ["Carrocería sin rayones", "Excelente opción familiar"],
+    "status": "active",
+    "images": [
+      "https://img.remediosdigitales.com/c8536c/clase2/840_560.jpg",
+      "https://img.remediosdigitales.com/c8536c/clase2/840_560.jpg",
+      "https://img.remediosdigitales.com/c8536c/clase2/840_560.jpg"
+    ]
+  },
+  {
+    "id": "mercedes-benz-model-s-2015-30000-120000",
+    "carDetails": {
+      "year": "2015",
+      "brand": "Mercedes Benz",
+      "price": 30000,
+      "transmission": "Automática",
+      "model": "Model S",
+      "fuel": ["Gasolina", "GNV"],
+      "displacement": "1.8L",
+      "drivetrain": "Tracción Simple",
+      "color": "Rojo",
+      "mileage": 120000,
+      "body": "Sedán",
+      "transmissionAbbre": "AT",
+      "drivetrainAbbre": "2WD"
+    },
+    "accessories": [
+      {
+        "name": "Espejos eléctricos",
+        "description": "Espejos ajustables electrónicamente."
+      },
+      {
+        "name": "Sistema de Navegación GPS",
+        "description": "GPS integrado con mapas."
+      },
+      {
+        "name": "Ventanas Eléctricas",
+        "description": "Control electrónico de ventanas."
+      },
+      {
+        "name": "Sensores de Estacionamiento",
+        "description": "Sensores ultrasónicos para evitar colisiones."
+      }
+    ],
+    "notes": ["Interior en excelente estado", "Asientos de cuero"],
+    "status": "active",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IfbN8KM2To0Dd8eOqFBkAhmGoN6KLz-pDg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IfbN8KM2To0Dd8eOqFBkAhmGoN6KLz-pDg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0IfbN8KM2To0Dd8eOqFBkAhmGoN6KLz-pDg&s"
+    ]
+  },
+  {
+    "id": "tesla-model-x-2023-25000-160000",
+    "carDetails": {
+      "year": "2023",
+      "brand": "Tesla",
+      "price": 25000,
+      "transmission": "Automática",
+      "model": "Model X",
+      "fuel": ["GNV"],
+      "displacement": "2.2L",
+      "drivetrain": "Tracción Simple",
+      "color": "Gris",
+      "mileage": 160000,
+      "body": "Sedán",
+      "transmissionAbbre": "AT",
+      "drivetrainAbbre": "2WD"
+    },
+    "accessories": [
+      {
+        "name": "Espejos eléctricos",
+        "description": "Espejos ajustables electrónicamente."
+      },
+      {
+        "name": "Sistema de Navegación GPS",
+        "description": "GPS integrado con mapas."
+      },
+      {
+        "name": "Ventanas Eléctricas",
+        "description": "Control electrónico de ventanas."
+      },
+      {
+        "name": "Sensores de Estacionamiento",
+        "description": "Sensores ultrasónicos para evitar colisiones."
+      }
+    ],
+    "notes": ["Mantenimiento reciente", "Neumáticos nuevos"],
+    "status": "active",
+    "images": [
+      "https://cdn.motor1.com/images/mgl/pbjv2W/s1/2023-tesla-model-x-ultra-red-color.webp",
+      "https://cdn.motor1.com/images/mgl/pbjv2W/s1/2023-tesla-model-x-ultra-red-color.webp",
+      "https://cdn.motor1.com/images/mgl/pbjv2W/s1/2023-tesla-model-x-ultra-red-color.webp"
+    ]
+  },
+  {
+    "id": "tesla-model-s-2016-55000-110000",
+    "carDetails": {
+      "year": "2016",
+      "brand": "Tesla",
+      "price": 55000,
+      "transmission": "Manual",
+      "model": "Model S",
+      "fuel": ["Gasolina", "GNV"],
+      "displacement": "2.3L",
+      "drivetrain": "Tracción Simple",
+      "color": "Negro",
+      "mileage": 110000,
+      "body": "Sedán",
+      "transmissionAbbre": "MT",
+      "drivetrainAbbre": "2WD"
+    },
+    "accessories": [
+      {
+        "name": "Espejos eléctricos",
+        "description": "Espejos ajustables electrónicamente."
+      },
+      {
+        "name": "Sistema de Navegación GPS",
+        "description": "GPS integrado con mapas."
+      },
+      {
+        "name": "Ventanas Eléctricas",
+        "description": "Control electrónico de ventanas."
+      },
+      {
+        "name": "Sensores de Estacionamiento",
+        "description": "Sensores ultrasónicos para evitar colisiones."
+      }
+    ],
+    "notes": ["Motor recién ajustado", "Muy económico en combustible"],
+    "status": "active",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfR2_9WvP8U1-_Z2HEdA1ie9DQEm2Kr4pxw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfR2_9WvP8U1-_Z2HEdA1ie9DQEm2Kr4pxw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEfR2_9WvP8U1-_Z2HEdA1ie9DQEm2Kr4pxw&s"
+    ]
+  }
+]

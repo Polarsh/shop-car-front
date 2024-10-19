@@ -1,0 +1,29 @@
+[
+  {
+    "id": "chevrolet",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dybsm98-webs.appspot.com/o/car-shop%2FbrandLogos%2Fdc085673-af43-4d40-8501-175133184e3d.webp?alt=media&token=24b503ad-fd0d-4c73-a5b5-e6c6530a5eaf",
+    "models": [
+      { "name": "Sail", "type": "Sedán" },
+      { "name": "Captiva", "type": "SUV" }
+    ],
+    "name": "Chevrolet"
+  },
+  {
+    "id": "mercedesbenz",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dybsm98-webs.appspot.com/o/car-shop%2FbrandLogos%2Ff212ba8e-e155-4853-b959-ce0aa1cb7db1.webp?alt=media&token=c9396145-7b04-4266-babf-832de3d6e8e0",
+    "models": [
+      { "name": "Clase C", "type": "Sedán" },
+      { "type": "SUV", "name": "GLB" }
+    ],
+    "name": "Mercedes Benz"
+  },
+  {
+    "id": "tesla",
+    "image": "https://firebasestorage.googleapis.com/v0/b/dybsm98-webs.appspot.com/o/car-shop%2FbrandLogos%2F223aaaa2-3477-4747-91f6-90e7c89d8423.webp?alt=media&token=6968bfdf-b8da-4b0b-a4a5-19df1b23e8be",
+    "name": "Tesla",
+    "models": [
+      { "type": "SUV", "name": "Model X" },
+      { "type": "Sedán", "name": "Model S" }
+    ]
+  }
+]
